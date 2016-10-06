@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "350576736596",
+    "firebase_url": "https://maps-6bb59.firebaseio.com",
+    "project_id": "maps-6bb59",
+    "storage_bucket": "maps-6bb59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350576736596:android:13ad81e55e3cc57f",
+        "android_client_info": {
+          "package_name": "com.example.amira.maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350576736596-9c8onu3s9q5gqgteg71kld6huj9o4r0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-5k9yxJ4MlGNIZMmsvFDBLyBBZATcZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
